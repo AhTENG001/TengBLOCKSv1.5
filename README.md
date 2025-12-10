@@ -12,3 +12,5 @@ When opening TengBLOCKS v1.5, you may see a warning from Windows SmartScreen war
 4.Check the box that says "Unblock".
 5.Click OK.
 Enjoy coding with TengBLOCKS v1.5! 🚀
+Note: This application requires Python installed to run properly. Without Python installed, the initial 300+ blocks in TengBLOCKS will work, but users will be unable to create custom blocks, install modules, import modules that are not native to Python, and generate blocks for modules.
+
